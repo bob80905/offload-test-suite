@@ -1,0 +1,5 @@
+"Scenario","IntelMachines","QualcommMachines","TestAll_Avg_Hrs","TestAll_Max_Hrs","Default_Avg_Hrs","Default_Max_Hrs","Weighted_Avg_Hrs"
+"Current (1 each)","1","1","4.76","7.62","3.24","6.61","3.74"
+"+1 Intel (2I,1Q)","2","1","4.66","7.62","2.01","4.82","2.88"
+"+1I +1QC (2I,2Q)","2","2","2.4","3.81","1.62","3.31","1.88"
+"+2 Intel (3I,1Q)","3","1","4.66","7.62","1.68","4.82","2.66"
